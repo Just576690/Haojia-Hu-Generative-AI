@@ -29,4 +29,4 @@ The following steps were used to build this repository:
 
 ## Walkthrough Video
 
-[Video link — to be added after recording]
+[Walkthrough Video](https://youtu.be/_jGaAV4_g8g)
